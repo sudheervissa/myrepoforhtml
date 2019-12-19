@@ -1,0 +1,37 @@
+
+   h1 {       
+       color: red;
+       text-align: center;       
+   }
+   h2{
+       color: green;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-style: italic;
+       font-size: 28px;
+       text-align: center;
+       text-align-last: center;
+
+   }
+   p1
+   {
+       text-transform: capitalize;
+       font-weight: lighter;
+       font-family: cursive;
+       text-align: left;
+       color: orange;
+
+   }
+   p2{ text-transform: capitalize;
+    font-weight: lighter;
+    font-family: cursive;
+    text-align: left;}
+
+    p3{ text-transform: capitalize;
+        font-weight: lighter;
+        font-family: cursive;
+        text-align: left;
+    color: blue
+}
+
+
+   
